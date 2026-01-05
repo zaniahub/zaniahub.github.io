@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Inteligencia Artificial para Comunidades Tecnológicas
 description: Marco completo y estructurado sobre Inteligencia Artificial, conceptos clave, arquitectura, riesgos y rol de los equipos técnicos.
 ---
