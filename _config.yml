@@ -3,8 +3,8 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
-
+name: ZaniaHub
+email: zaniahub@gmail.com
 # Name of the author
 author: Amit Merchant
 
@@ -48,8 +48,7 @@ google_analytics: UA-43339302-11
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://www.amitmerchant.com/reverie
-enforce_ssl: https://www.amitmerchant.com/reverie
+url: https://zaniahub.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
